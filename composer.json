@@ -1,0 +1,21 @@
+{
+    "name": "mwl/ebay",
+    "description": "Ebay Ranking",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "dts/ebay-sdk-php": "^18.0"
+    },
+    "autoload":{
+        "psr-4": {
+            "MWL\\Ebay\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "larry chen",
+            "email": "larrychen04@gmail.com.au"
+        }
+    ]
+}
