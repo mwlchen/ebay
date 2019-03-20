@@ -1,6 +1,6 @@
 <?php
 
-namespace MWL\Ebay\Facade;
+namespace MWL\Ebay\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

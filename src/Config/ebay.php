@@ -1,7 +1,7 @@
 <?php
 return [
     'mode' => env('EBAY_MODE', 'sandbox'),
-    'globalId' => env('EBAY_GLOBAL_ID','0'),
+    'globalId' => env('EBAY_GLOBAL_ID','EBAY-AU'),
     'sandbox' => [
         'credentials' => [
             'devId' => env('EBAY_SANDBOX_DEV_ID'),
